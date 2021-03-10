@@ -1,6 +1,6 @@
 {
-  isUrgentNotice:false,
-  subject:"",
-  body:"",
-  bodyURI:""
+  "isUrgentNotice":false,
+  "subject":"",
+  "body":"",
+  "bodyURI":""
 }
