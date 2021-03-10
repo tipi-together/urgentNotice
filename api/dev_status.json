@@ -1,6 +1,6 @@
 {
   isUrgentNotice:false,
-  title:"",
-  descripion:"",
+  subject:"",
+  body:"",
   url:""
 }
