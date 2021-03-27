@@ -1,5 +1,5 @@
 {
-  "isUrgentNotice":true,
+  "isUrgentNotice": false,
   "subject":"서버 작업중...",
   "body":"10시 ~ 20시",
   "bodyURI":""
